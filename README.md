@@ -47,5 +47,6 @@ The Inventory Management System is a full-stack web application developed using 
 - Barcode Scanner
 - Sales Analytics
 
-## Author
-**Devyani Baisane**
+## Team Project
+
+This project was developed as a team project during Full Stack Java training at FUEL Group of Institutions. I contributed to the development, implementation, and testing of the application.
